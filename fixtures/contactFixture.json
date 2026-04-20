@@ -1,0 +1,26 @@
+{
+  "newContact": {
+    "firstName": "Sarjala",
+    "lastName": "Pandey",
+    "birthdate": "2004-07-25",
+    "email": "sarjalachhetri@gmail.com",
+    "phone": "9849656420",
+    "street1": "mahepi",
+    "city": "Kathmandu",
+    "stateProvince": "3",
+    "postalCode": "44600",
+    "country": "Nepal"
+  },
+  "editContact": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "birthdate": "1970-01-01",
+    "email": "jdoe@fake.com",
+    "phone": "8005555555",
+    "street1": "1 Main St.",
+    "city": "Anytown",
+    "stateProvince": "KS",
+    "postalCode": "12345",
+    "country": "USA"
+  }
+}
